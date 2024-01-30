@@ -1,1 +1,0 @@
-manages libvirtd virtual machine domains based on a nix configuration.
